@@ -7,7 +7,7 @@ if (allLinks) {
 
 function demo() {
   const demoBlock = document.createElement('div');
-  demoBlock.innerText = 'World Computer Money';
+  demoBlock.innerText = 'The Binance Mascot';
   demoBlock.style.cssText = `
   pointer-events: none;
   user-select: none;
